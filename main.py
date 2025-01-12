@@ -10,3 +10,4 @@ if __name__ == "__main__":
     print("this is multiplication of num1 and num2",num1*num2)
     print("This is the main module")
     print("the square of num1 is",num1*num1)
+    print("important thing")
