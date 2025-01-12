@@ -7,4 +7,5 @@ if __name__ == "__main__":
     
     result = add_numbers(num1, num2)
     print(f"The sum of {num1} and {num2} is {result}")
+    print("this is multiplication of num1 and num2",num1*num2)
     print("This is the main module")
